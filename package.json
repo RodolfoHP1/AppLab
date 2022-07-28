@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "material-icons": "^1.11.7",
+    "react-datepicker": "^4.8.0",
+    "weather-js": "^2.0.0"
+  }
+}
